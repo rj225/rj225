@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajrishabh225@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/132hIrbY3cuAO8I--TcNShGqWjpoh5God/view?usp=sharing]([https://drive.google.com/file/d/132hIrbY3cuAO8I--TcNShGqWjpoh5God/view?usp=drive_link](https://drive.google.com/file/d/132hIrbY3cuAO8I--TcNShGqWjpoh5God/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/132hIrbY3cuAO8I--TcNShGqWjpoh5God/view?usp=sharing]((https://drive.google.com/file/d/132hIrbY3cuAO8I--TcNShGqWjpoh5God/view?usp=sharing))
 
 - ⚡ Fun fact **Can turn code into digital magic!**
 
