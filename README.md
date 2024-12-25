@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rishabh Raj</h1>
-<h3 align="center">Full-Stack Developer Bridging Frontend and Backend</h3>
+<h3 align="center">Mern Full-Stack Developer Bridging Frontend and Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rj225&label=Profile%20views&color=0e75b6&style=flat" alt="rj225" /> </p>
 
-- 🔭 I’m currently working on [VidSphere](https://vidsphere-five.vercel.app/)
+- 🔭 I’m currently working on [PrepStat](https://www.prepstat.in/)
 
-- 👨‍💻 All of my projects are available at [https://rishabhportfolio-three.vercel.app/](https://rishabhportfolio-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rishabhportfolio-three.vercel.app/)
 
 - 💬 Ask me about **MERN Stack (MongoDB, Express.js, React, Node.js) SQL (Structured Query Language) Java (Basic knowledge) Python (Basic knowledge) Tailwind CSS (For styling)**
 
 - 📫 How to reach me **rajrishabh225@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/132hIrbY3cuAO8I--TcNShGqWjpoh5God/view?usp=sharing](https://drive.google.com/file/d/132hIrbY3cuAO8I--TcNShGqWjpoh5God/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/132hIrbY3cuAO8I--TcNShGqWjpoh5God/view?usp=sharing)
 
 - ⚡ Fun fact **Can turn code into digital magic!**
 
